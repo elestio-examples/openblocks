@@ -6,7 +6,7 @@ set -o allexport; source .env; set +o allexport;
 echo "Waiting for software to be ready ..."
 sleep 120s;
 
-# target=$(docker-compose port openblocks 3000)
+target=$(docker-compose port openblocks 3000)
 
 curl http://${target}/api/auth/form/login \
   -H 'authority: openblocks-u353.vm.elestio.app' \
