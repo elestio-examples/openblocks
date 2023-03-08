@@ -7,7 +7,7 @@ docker-compose down;
 docker-compose up -d;
 
 echo "Waiting for software to be ready ..."
-sleep 30s;
+sleep 90s;
 
 # target=$(docker-compose port openblocks 3000)
 
