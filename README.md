@@ -10,8 +10,8 @@ Deploy Openblocks server with CI/CD on Elestio
 
 # Once deployed ...
 
-You can can open Openblocks UI here:
+You can open Openblocks UI here:
 
     URL: https://[CI_CD_DOMAIN]
-    email:[ADMIN_EMAIL]
+    email: [ADMIN_EMAIL]
     password: [ADMIN_PASSWORD]
