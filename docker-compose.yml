@@ -1,7 +1,7 @@
 version: "3"
 services:
   openblocks:
-    image: openblocksdev/openblocks-ce:${SOFTWARE_VERSION_TAG}
+    image: elestio/openblocks:${SOFTWARE_VERSION_TAG}
     container_name: openblocks
     ports:
       - "172.17.0.1:3432:3000"
