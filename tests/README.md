@@ -10,7 +10,7 @@
 
 A better community platform for the modern web.
 
-[Openblocks](https://openblocks.dev/)Openblocks is a retool Alternative developer-friendly open-source low-code platform to build internal apps within minute.
+[Openblocks](https://openblocks.dev/) is a retool Alternative developer-friendly open-source low-code platform to build internal apps within minute.
 
 <img src="https://github.com/elestio-examples/openblocks/raw/main/openblocks.gif" alt="openblocks" width="800">
 
